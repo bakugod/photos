@@ -9,4 +9,3 @@ skillfactory топчик
 
 https://jsfiddle.net/
 
-12312*:?%::!!_!"(_
